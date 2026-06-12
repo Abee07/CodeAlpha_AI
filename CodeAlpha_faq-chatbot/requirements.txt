@@ -1,0 +1,8 @@
+streamlit
+deep-translator
+gtts
+pyttsx3
+nltk
+scikit-learn
+flask
+flask-cors

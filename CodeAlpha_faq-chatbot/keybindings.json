@@ -1,0 +1,8 @@
+[
+  {
+    "key": "ctrl+shift+s",
+    "command": "workbench.action.tasks.runTask",
+    "args": "Run Streamlit App",
+    "when": "resourceExtname == .py"
+  }
+]
